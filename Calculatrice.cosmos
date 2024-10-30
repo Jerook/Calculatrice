@@ -5,7 +5,7 @@ Description: Calculatrice
 
 Voici les ordres du programme Calculatrice  :
 
-
+//Salutations, voyageur!
 //Entrée : demander nombre
     Créer une zone mémoire #nombre1.
     Afficher "Entrez nombre : ".
